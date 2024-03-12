@@ -1,0 +1,13 @@
+/* answer for tsconfig exercise is in project directory and not here */
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "strict": false,
+      "experimentalDecorators": true
+    },
+    "exclude": [
+      "project"
+    ]
+}
+  
